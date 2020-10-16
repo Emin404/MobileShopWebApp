@@ -9,9 +9,9 @@ Installation required : Google Authenticator Scanner
 Some parts of windows and mobile applications:
 
 
-![](webAppSlike/webApp1.png)
+![](webAppSlike/webApp1.PNG)
 
-![](webAppSlike/webApp2.png)
+![](webAppSlike/webApp2.PNG)
 
 ![](webAppSlike/webApp3.png)
 
