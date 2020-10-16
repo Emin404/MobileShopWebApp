@@ -1,5 +1,5 @@
-# MobileShopWebApp--NoviProjekat
-    MobileShopWeb: (https://p1811.azurewebsites.net/)
+# MobileShopWebApp
+  
 
 .Net Core, Entity Framework, MVC, JavaScript(Ajax.js)
 
@@ -10,11 +10,19 @@ Some parts of windows and mobile applications:
 
 
 ![](webAppSlike/webApp1.PNG)
+
 ![](webAppSlike/webApp2.PNG)
+
 ![](webAppSlike/webApp3.PNG)
+
 ![](webAppSlike/webApp4.PNG)
+
 ![](webAppSlike/webApp5.PNG)
+
 ![](webAppSlike/webApp6.PNG)
+
 ![](webAppSlike/webApp7.PNG)
+
 ![](webAppSlike/webApp8.PNG)
+
 ![](webAppSlike/webApp9.PNG)
